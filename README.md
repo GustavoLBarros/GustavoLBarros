@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Lopes de Barros
 
-**`Desenvolvedor FullStack`**
+**`UX/UI Designer`**
 
 Me chamo Gustavo Lopes de Barros, tenho 24 anos e sou de Americana-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-Americana. Sou apaixonado por tecnologia e design, estou me aprofundando na área de desenvolvimento fullstack, tal qual na área de UX/UI e User Experience/Design.
 
