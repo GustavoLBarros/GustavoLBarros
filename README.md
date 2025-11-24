@@ -2,7 +2,7 @@
 
 **`UX/UI Designer`**
 
-Me chamo Gustavo Lopes de Barros, tenho 24 anos e sou de Americana-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-Americana. Sou apaixonado por tecnologia e design, estou me aprofundando na área de desenvolvimento fullstack, tal qual na área de UX/UI e User Experience/Design.
+Me chamo Gustavo Lopes de Barros, tenho 24 anos e sou de Americana-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-Americana. Sou apaixonado por tecnologia e design, estou me aprofundando na área de UX/UI e User Experience/Design, tal qual em FullStack development.
 
 ---
 
@@ -115,23 +115,3 @@ Me chamo Gustavo Lopes de Barros, tenho 24 anos e sou de Americana-SP. Atualment
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavolbarros&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolbarros&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
